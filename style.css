@@ -1,0 +1,31 @@
+/* style.css by Echo Adams */
+
+body {
+	background-color: #9FC9FF;
+	padding: 100px;
+	color: 	#midnight blue;
+	background-image: url("http://tinyurl.com/l823kts");
+	margin-top: 100px;
+	margin-bottom: 100px;
+	Margin-right: 400px;
+	margin-left: 400px;
+	text-align: center;
+} 
+div.border {
+    background-color: black;
+    color: #7a01a3;
+    margin: 20px 0 20px 0;
+    padding: 20px;
+	border-style: double;
+	border-width: 10px;
+}
+
+div.list{
+	text-align: justify;
+}
+
+img {
+   padding:1px;
+   border:1px solid #7a01a3;
+   background-color: black;
+}
