@@ -29,11 +29,9 @@ img {
    border:2px solid #7a01a3;
    background-color: black;
 }
-
-a:link {
+a{
+a:link
     color: #ba0095;
-}
-
-a:hover {
+a:hover
     color: #02bcc9;
 }
