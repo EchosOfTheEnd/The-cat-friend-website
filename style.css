@@ -30,8 +30,16 @@ img {
    background-color: black;
 }
 
-
-a:{ 
+div.mennuitem {
 	color: #ff04cd;
 	text-decoration: none;
+}
+
+div.menu {
+ background-color: black;
+    color: #7a01a3;
+    margin: 20px 0 20px 0;
+    padding: 20px;
+	border-style: double;
+	border-width: 10px;
 }
